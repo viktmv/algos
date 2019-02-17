@@ -1,4 +1,7 @@
 // function two return idexes of elemens whose sum equals target
+// Time complexity - O(n)
+// Space complexity - O(n)
+// https://leetcode.com/problems/two-sum/
 
 const twoSum = function(nums, target) {
   let map = {}
